@@ -6,7 +6,7 @@ void UpdatelfGreater (int& a, int& b){
   }
 }
 
-int main){
+int main(){
   int a, b;
   std::cin > a >> b;
   
